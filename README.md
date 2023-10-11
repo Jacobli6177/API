@@ -1,10 +1,10 @@
 # Web Development Project 4 - *Name of App Here*
 
-Submitted by: **API**
+Submitted by: Pokemon API
 
-This web app: **insert description**
+This web app: incorporates API functions that allow the user to discover different species of Pokemon while keeping track of what Pokemon they have discovered before. This app also prevents any attributes the user wants to appear again.
 
-Time spent: **7** hours spent in total
+Time spent: 7 hours spent in total
 
 ## Required Features
 
@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVwamhneXRkeW52Yms1bXhhdnFic3U1NXNwdWUxMnU2bmZ1dGdzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ov1R6kQfRNinmbJ4zf/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with GIPHY
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Jacob Li]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
