@@ -1,0 +1,62 @@
+{
+    "dogs": [
+        {
+            "name" : "",
+            "breed": "",
+            "image": "",
+            "birthYear": ""
+        },
+        {
+            "name" : "",
+            "breed": "",
+            "image": "",
+            "birthYear": ""
+        },        {
+            "name" : "",
+            "breed": "",
+            "image": "",
+            "birthYear": ""
+        },        {
+            "name" : "",
+            "breed": "",
+            "image": "",
+            "birthYear": ""
+        },        {
+            "name" : "",
+            "breed": "",
+            "image": "",
+            "birthYear": ""
+        },        {
+            "name" : "",
+            "breed": "",
+            "image": "",
+            "birthYear": ""
+        },        {
+            "name" : "",
+            "breed": "",
+            "image": "",
+            "birthYear": ""
+        },        {
+            "name" : "",
+            "breed": "",
+            "image": "",
+            "birthYear": ""
+        },        {
+            "name" : "",
+            "breed": "",
+            "image": "",
+            "birthYear": ""
+        },
+        {
+            "name" : "",
+            "breed": "",
+            "image": "",
+            "birthYear": ""
+        },        {
+            "name" : "",
+            "breed": "",
+            "image": "",
+            "birthYear": ""
+        }
+    ]
+}
