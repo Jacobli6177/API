@@ -1,6 +1,6 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - Pokemon API
 
-Submitted by: Pokemon API
+Submitted by: Jacob Li
 
 This web app: incorporates API functions that allow the user to discover different species of Pokemon while keeping track of what Pokemon they have discovered before. This app also prevents any attributes the user wants to appear again.
 
